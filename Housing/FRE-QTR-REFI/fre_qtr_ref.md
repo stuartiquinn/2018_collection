@@ -104,7 +104,7 @@ ggplot(data = d_refi_long)+
   theme(legend.position = "top")
 ```
 
-<img src="fre_qtr_ref_files/figure-markdown_github/plotData-1.png" style="display: block; margin: auto;" />
+<img src="2018_collection/Housing/FRE-QTR-REFI/png/plotData-1.png" style="display: block; margin: auto;" />
 
 Notes & Plot Save
 -----------------
